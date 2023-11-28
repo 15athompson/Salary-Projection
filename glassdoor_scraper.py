@@ -1,6 +1,6 @@
 
-url: https://github.com/arapfaik/scraping-glassdoor-selenium
-"""
+# url: https://github.com/arapfaik/scraping-glassdoor-selenium
+
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time
